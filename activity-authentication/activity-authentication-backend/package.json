@@ -1,0 +1,19 @@
+{
+  "name": "activity-authentication-backend",
+  "version": "1.0.0",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sample.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "session": "^0.1.0"
+  }
+}
